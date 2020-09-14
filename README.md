@@ -1,6 +1,8 @@
 # Mathematical-Series-Generator
 Python Project
 
+Run in terminal( after going to the dowloaded file location): python2 msg.py 
+
 This is a Python Project to generate mathematical series such as 
 
 1. ABUNDANT NUMBERS
