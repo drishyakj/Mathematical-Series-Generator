@@ -1,6 +1,8 @@
 # Mathematical-Series-Generator
 Python Project
+
 This is a Python Project to generate mathematical series such as 
+
 1. ABUNDANT NUMBERS
 2. ARMSTRONG NUMBERS
 3. COMPOSITE NUMBERS
